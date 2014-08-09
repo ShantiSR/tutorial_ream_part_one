@@ -1,0 +1,2 @@
+ pod 'AnimatedGIFImageSerialization'
+ pod 'Realm', '~> 0.81'

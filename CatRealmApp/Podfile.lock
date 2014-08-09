@@ -1,0 +1,13 @@
+PODS:
+  - AnimatedGIFImageSerialization (0.0.1)
+  - Realm (0.81.0)
+
+DEPENDENCIES:
+  - AnimatedGIFImageSerialization
+  - Realm (~> 0.81)
+
+SPEC CHECKSUMS:
+  AnimatedGIFImageSerialization: 59d27f2411f5669d35c8d99f32b1b7ff6bd892d0
+  Realm: 18d96d4c565c5fd7d12d17ef45ee78551e8ee365
+
+COCOAPODS: 0.33.1
